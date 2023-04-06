@@ -38,7 +38,7 @@ class Database:
     # add account
     def add_account(self, number, name):
         self.collection.insert_one(
-            {"number": number, "name": name, "language": 'en'})
+            {"number": number, "name": name})
 
     ########################################## ---ADD AND CHECK BUDGET-----#################################
 
