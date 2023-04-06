@@ -50,7 +50,7 @@ After sending "Hi" or "Hello", chatbot will prompt you to create an account. Jus
 ### 2. Selecting A Language 💬
 Once account is created, you can choose any regional language in india to chat with the bot.
 
-![Select-Lang](https://drive.google.com/uc?id=)
+![Select-Lang](https://github.com/Binary-Bats/Xpense_Bot/blob/main/Demos/Select_lang.gif?raw=true)
 
 ### 3. Adding an expense 📝
 After the setup, you can simply type in "add expense", and then select category of expense and enter the expense name <space> amount.
@@ -73,9 +73,9 @@ You can easily delete any previously added expense by simply selecting "delete e
 ![Delete-Expense](https://github.com/Binary-Bats/Xpense_Bot/blob/main/Demos/Delete_expense%20(1)%20(1).gif?raw=true)
     
 ### 5. Change Language 💬 or Budget 💰
-You can change the language by selecting **"change language"** option and then entering any other regional language.
+You can change the language later by selecting **"change language"** option and then entering any other regional language.
 
-Also, you can change your budget or expense limit by selecting **"Change Budget"** option and then entering the amount.
+Also, you can change your budget or expense limit later as well by selecting **"Change Budget"** option and then entering the amount.
 
 ![Change-Lang/Budget](https://github.com/Binary-Bats/Xpense_Bot/blob/main/Demos/change_lang_budget.gif?raw=true)
 
