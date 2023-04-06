@@ -45,7 +45,7 @@ To try it out yourself, just follow the steps below:
 ### 1. Creating An Account ➕
 After sending "Hi" or "Hello", chatbot will prompt you to create an account. Just enter your name and your account will be created.
 
-![Create-Account](https://drive.google.com/uc?id=1ZAkLs_BkAbxRXoLYDEQoGC55ZDqt76JM)
+![Create-Account](https://github.com/Binary-Bats/Xpense_Bot/blob/main/Demos/create_account.gif?raw=true)
 
 ### 2. Selecting A Language 💬
 Once account is created, you can choose any regional language in india to chat with the bot.
@@ -61,7 +61,7 @@ After the setup, you can simply type in "add expense", and then select category 
 ``` 
 If you have not specified any monthly budget, chatbot will prompt you to add one before adding any expense.
 
-![Add-Expense](https://drive.google.com/uc?id=1fiGYg1FCl9rO9zvDLn1_KIuqK7UwTLWM)
+![Add-Expense](https://github.com/Binary-Bats/Xpense_Bot/blob/main/Demos/add_expense.gif?raw=true)
 
 ### 4. Deleting an expense ❌
 You can easily delete any previously added expense by simply selecting "delete expense" option and then specifying - expense name <space> amount <space> date added {dd/mm/yyyy}.
@@ -70,14 +70,14 @@ You can easily delete any previously added expense by simply selecting "delete e
 ```http
   Coffee 340 05/04/2023
 ```
-![Delete-Expense](https://github.com/Binary-Bats/Xpense_Bot/blob/main/Delete_expense%20(1)%20(1).gif?raw=true)
+![Delete-Expense](https://github.com/Binary-Bats/Xpense_Bot/blob/main/Demos/Delete_expense%20(1)%20(1).gif?raw=true)
     
 ### 5. Change Language 💬 or Budget 💰
 You can change the language by selecting **"change language"** option and then entering any other regional language.
 
 Also, you can change your budget or expense limit by selecting **"Change Budget"** option and then entering the amount.
 
-![Change-Lang/Budget](https://github.com/Binary-Bats/Xpense_Bot/blob/main/change_lang_budget.gif?raw=true)
+![Change-Lang/Budget](https://github.com/Binary-Bats/Xpense_Bot/blob/main/Demos/change_lang_budget.gif?raw=true)
 
 
 ### 6. Getting a Report 📊
@@ -89,7 +89,7 @@ You can also generate a report / insight on your spendings by simply selecting "
 ```
 All the details will be calculated based on the expenses present between this date range.
 
-![Send Report](https://github.com/Binary-Bats/Xpense_Bot/blob/main/WhatsApp%20Video%202023-04-06%20at%2009.36.59%20(1).gif?raw=true)
+![Send Report](https://github.com/Binary-Bats/Xpense_Bot/blob/main/Demos/WhatsApp%20Video%202023-04-06%20at%2009.36.59%20(1).gif?raw=true)
 
 
 
