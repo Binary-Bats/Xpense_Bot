@@ -70,7 +70,7 @@ You can easily delete any previously added expense by simply selecting "delete e
 ```http
   Coffee 340 05/04/2023
 ```
-![Delete-Expense]([https://drive.google.com/uc?id=1EZDuvaS0QsjgE6sapr_xV-_JOhzmsfpS](https://github.com/Binary-Bats/Xpense_Bot/blob/main/Delete_expense%20(1)%20(1).gif?raw=true))
+![Delete-Expense](https://github.com/Binary-Bats/Xpense_Bot/blob/main/Delete_expense%20(1)%20(1).gif?raw=true)
     
 ### 5. Change Language 💬 or Budget 💰
 You can change the language by selecting **"change language"** option and then entering any other regional language.
