@@ -1,5 +1,5 @@
 
-![Logo](https://drive.google.com/uc?id=1r7uQbNXEgvuc1uceb7FE5GGxGcw8nmDT)
+![Logo](https://github.com/Binary-Bats/Xpense_Bot/blob/main/Demos/Green%20Yellow%20Playful%20&%20Celebratory%20Traditional%20Graduation%20Banner.png?raw=true)
 
 
 # Xpense Bot 🤑
