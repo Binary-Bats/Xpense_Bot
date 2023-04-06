@@ -13,9 +13,11 @@ It is hard to keep track of money, especially as a student where we do small amo
 
 **Client:** Whatsapp, Twilio API
 
-**Server:** Flask, ngrok
+**Server:** Flask
 
 **Database:** MongoDb
+
+**Hosting:** Railway.app
 
 
 
