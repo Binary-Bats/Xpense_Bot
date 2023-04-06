@@ -33,7 +33,7 @@ It is hard to keep track of money, especially as a student where we do small amo
 To try it out yourself, just follow the steps below:
 * Save this number as Xpense Bot - [Here](https://wa.me/14155238886)
 
-* Send "join noise-factor" to get connected to Twilio Api.
+* Send "join wind-bicycle" to get connected to Twilio Api.
 
 * Pin this chat to the top for faster accessibility.
 
