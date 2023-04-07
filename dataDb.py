@@ -9,8 +9,7 @@ print(os.environ.get('DATABASE'))
 
 class Database:
     def __init__(self):
-        self.client = MongoClient(
-            "mongodb+srv://sachita:sachita@cluster0.5ljqocp.mongodb.net/?retryWrites=true&w=majority")
+        self.client = MongoClient(os.environ.get('DATABASE'))
         self.db = self.client["clientDB"]
         self.collection = self.db["client_data"]
         self.food = self.db["food"]
